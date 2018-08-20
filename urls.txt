@@ -1,0 +1,6 @@
+https://registration-pal-ben.apps.pikes.pal.pivotal.io/users/10
+https://registration-pal-ben.apps.pikes.pal.pivotal.io/accounts?ownerId=10
+https://registration-pal-ben.apps.pikes.pal.pivotal.io/projects?accountId=1
+https://allocations-pal-ben.apps.pikes.pal.pivotal.io/allocations?projectId=1
+https://backlog-pal-ben.apps.pikes.pal.pivotal.io/stories?projectId=1
+https://timesheets-pal-ben.apps.pikes.pal.pivotal.io/time-entries?userId=10
