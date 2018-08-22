@@ -4,7 +4,7 @@ applications:
   routes:
   - route: backlog-pal-ben.apps.pikes.pal.pivotal.io
   memory:1G
-  instance s: 1
+  instances: 1
   env:
     GRANT_TYPE: client_credentials
     SECURITY_USER_NAME: actuator
